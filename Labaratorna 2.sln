@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labaratorna 2", "Labaratorna 2\Labaratorna 2.csproj", "{04B0BBAD-62AD-4B3D-9DB9-6A4DE8E14B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B0BBAD-62AD-4B3D-9DB9-6A4DE8E14B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B0BBAD-62AD-4B3D-9DB9-6A4DE8E14B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B0BBAD-62AD-4B3D-9DB9-6A4DE8E14B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B0BBAD-62AD-4B3D-9DB9-6A4DE8E14B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8380B08-A71A-4CC1-8160-B4C4622FC793}
+	EndGlobalSection
+EndGlobal
